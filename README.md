@@ -45,7 +45,7 @@ Have fun with a small donation, I would be happy if you are satisfied.
 </a>
 
 <img src="https://github.com/druckgott/rc-flight-planning/blob/master/tempsnip.png" alt="Bild1">
-<img src="https://github.com/druckgott/rc-flight-planning/blob/master/tempsnip1.png" alt="Bild2">
+<img src="https://github.com/druckgott/rc-flight-planning/blob/master/tempsnip2.png" alt="Bild2">
 
 
 INFO:
