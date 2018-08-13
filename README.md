@@ -10,7 +10,7 @@ In der Datei: /admin/database.php müssen die Datenbankeinstellungen gemacht wer
 Dazu muss folgende Datei ausgeführt werden:
 flugtag_2017.sql
 
-Im Backend, das umbedingt mit einem htaccess Password geschützt werden sollte, können dann Piloten, sowie Flugzeuge angelegt, verschoben, editiert ... werden . Es gibt eine extra Seite die auf einem TV angezeigt werden kann. Diese kann aber auch auch z.B. auf dem Handy oder einen PC aufgerufen werden und aaktuallisiert sich alle paar Sekunden.
+Im Backend, das umbedingt mit einem htaccess Password geschützt werden sollte, können dann Piloten, sowie Flugzeuge angelegt, verschoben, editiert ... werden . Es gibt eine extra Seite die auf einem TV angezeigt werden kann. Diese kann aber auch z.B. auf dem Handy oder einen PC aufgerufen werden und aktuallisiert sich alle paar Sekunden.
 
 Fluggruppen können angelegt werden usw. (siehe auch Changelog)
 
