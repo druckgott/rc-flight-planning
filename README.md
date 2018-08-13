@@ -13,12 +13,14 @@ Dazu muss zum einen Folgende Datei ausgeführt werden:
 Im Backend, das umbedigt mit einem htaccess geschützt werden sollte, können dann Piloten, sowie Flugzeuge angelegt werden. Es gibt dann eine Seite die auf einem TV angezeigt werden kann, als auch z.B. auf dem Handy oder einen PC aufgerufen werden kann.
 
 Pilotengruppen können angelegt werden usw.
+Bilder siehe weiter unten
 
 Viel Spaß damit, über eine kleine Spende würde ich mich freuen, wenn ihr zufrieden seit.
 
 <a href="https://paypal.me/druckgott/10">
   <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
 </a>
+
 
 ------------------------------------------------------------------------------------------------
 
@@ -40,6 +42,9 @@ Have fun with a small donation, I would be happy if you are satisfied.
 <a href="https://paypal.me/druckgott/10">
   <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
 </a>
+
+<img src="https://github.com/druckgott/rc-flight-planning/blob/master/tempsnip.png" alt="Bild1">
+<img src="https://github.com/druckgott/rc-flight-planning/blob/master/tempsnip1.png" alt="Bild2">
 
 
 INFO:
