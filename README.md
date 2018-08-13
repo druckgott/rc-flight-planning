@@ -12,7 +12,8 @@ Dazu muss zum einen Folgende Datei ausgeführt werden:
 
 Im Backend, das umbedigt mit einem htaccess geschützt werden sollte, können dann Piloten, sowie Flugzeuge angelegt werden. Es gibt dann eine Seite die auf einem TV angezeigt werden kann, als auch z.B. auf dem Handy oder einen PC aufgerufen werden kann.
 
-Pilotengruppen können angelegt werden usw.
+Pilotengruppen können angelegt werden
+
 Bilder siehe weiter unten
 
 Viel Spaß damit, über eine kleine Spende würde ich mich freuen, wenn ihr zufrieden seit.
