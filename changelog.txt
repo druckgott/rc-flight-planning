@@ -1,0 +1,89 @@
+Todos:
+	Bugs:
+	
+	
+	
+
+
+Featureanfragen:
+
+	- evlt Irgendwo eine Statistikseite (bei Verlauf oder so)
+	- mehr unterschiedliche Icons
+	- SMS/eMail/WhatsApp/Telegram Benachrichtigungen
+	- WLan aufm Platz aufspannen, Clients für Sprecher evtl Flugleitung
+	- UID+QR Code für personalisierte Seite + ca. Wartezeit
+
+V1.36:
+
+- Link zur personalisierten Seite wird wenn der Pilot erstellt ist neben der unique ID angezeigt
+
+V1.35:
+
+- Nicht alle Piloten ohne Flugzeug werden rot --> erledigt
+- Trenner werden in Personenanzahl mitgezählt --> erledigt
+- In der personalisierten Ansicht werden Piloten und Flugzeuginfos angezeigt. evtl kritisch bei Planungsinternen Notizen --> erledigt
+- zu lange Flüge aus der Historie streichen --> Bug verbessert bei Berechnung damit können wir das so lassen und manuell löschen wenn wir es wirklich nicht brauchen
+- Sekunden in TV Ansicht nicht anzeigen --> erledigt
+
+V1.34:
+
+- Runden der Zeiten ist möglich die im Frontend und auf der personalisierten Seite angzeigt werden
+- rote Anzeige im Backend, wenn keine Flieger ausgewahlt ist --> Person rutscht auch nicht nach vorne sondern bleibt an Ende der Liste, Frontend keine Anzeige
+- Einstellungen ueber DB abrufen	
+
+V1.33:
+
+- Mehr Infos in alle Piloten übersicht (Anwesenheit)	
+- Mehr Statistiken
+	-Flugzeit pro Pilot
+	-Anzahl der Piloten pro Tag
+	-Anzahl der FlÃŒge pro Tag
+	-Am besten gesamten Flugverlauf wie er oben Überläuft speichern
+
+- personalisiete Seite z.B. für Wrana Alex --> Siehe im Pilot für die uid
+	http://www.coolpixx.de/flugtag/personal.php?uid=868e41640ca82fcdf09de620
+	
+V1.32:
+
+- Wartezeit im Frontend mit option an/aus	
+	
+V1.31:
+
+- Bugfix bzw Optimierung fuer Fugzeit und E-Mail Funktion
+- History erweitert um Flugzeug und Antrieb und Flugzeugtyp
+- Im Backend wird die Flugzeit/Wartezeit wenn man ueber den warten Pilotenname geht angezeigt (mit der Maus)
+- Warteposition wird ebenfalls bei Maushover angezeigt
+- Histoy einzelne Elemente löschen
+- Berechnung der grob geschätzten Wartezeit (für Backend, für Frontend optional) --> in Arbeit, Eine Schwelle fuer zu große Flugzeiten muss noch erstellt werden z.B. > 1H
+
+	
+V1.30:
+
+- Einbau History mit Flugzeit erster Entwurf
+
+V1.29:
+
+- Bei Klick auf Eintrag in der Flugliste den Datenbankeintrag zu Pilot und Flugzeug anzeigen --> verschwindet nach reload wieder
+
+V1.28:
+
+- Klick auf Link zeigt Popup. Popup aber noch ohne Information
+- Iconpfad über Datenbank abrufen 
+- Default Flugzeug auswahlen, wenn ein neuer Pilot erstellt wird
+
+V1.27:
+
+- Liste aller Piloten, nicht nur inaktiv
+- Liste aller Flugzeuge mit Typen, durchsuchbar
+- Icon Position angepasst sind jetzt mittig in den oberen Feldern
+- Bei Flugzeug Datenbank ein Feld für Kommentare, Specs etc
+- Bei Piloten Datenbank ein Feld für Kommentare, für Auffäligkeiten, Flugverbote etc
+- Schriftfarbe per config änderbar
+- Hintergrundfarbe per config änderbar
+
+V1.26:
+- Scroll Postion wird im Backend wiederhergestellt
+- Wenn Piloten Vor und Nachname schon vorhanden ist, kommt eine Meldung und der Pilot wird nicht erstellt
+- Frontend Fehler auf Handy beseitigt, JS wurde aus Internet gezogen, jetzt ohne Online Verbindung möglich
+- Backend ebenfalls bereinigt von JS aus Internet und auf lokal umgestellt
+- Beim Piloten erstellen, kann man jetzt entweder auf die Hauptseite welchseln, oder speichern und direkt dann ein Flugzeug eintragen
