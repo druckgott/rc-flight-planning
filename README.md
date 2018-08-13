@@ -19,10 +19,9 @@ Pilotengruppen können angelegt werden usw.
 
 Viel Spaß damit, über eine kleine Spende würde ich mich freuen, wenn ihr zufrieden seit.
 
-<a href="https://paypal.me/druckgott">
+<a href="https://paypal.me/druckgott/10">
   <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
 </a>
-
 
 ------------------------------------------------------------------------------------------------
 
@@ -44,6 +43,6 @@ Pilot groups can be created, etc.
 
 Have fun with a small donation, I would be happy if you are satisfied.
 
-<a href="https://paypal.me/druckgott">
+<a href="https://paypal.me/druckgott/10">
   <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
 </a>
