@@ -6,12 +6,9 @@ Jeder Pilot hat einen Virtuellen Schieber mit Info zum Flugzeug und kann von den
 
 Für die Installtion ist eine MYSQL Datenbank und eine PHP Server notwendig.
 
-In der Datei: ./flugtag_liste/V1.36/admin/database.php müssen die Datenbankeinstellungen gemacht werden. Zudem muss z.B. über PHP myadmin die SQL Datenbank installiert werden.
+In der Datei: /admin/database.php müssen die Datenbankeinstellungen gemacht werden. Zudem muss z.B. über PHP myadmin die SQL Datenbank installiert werden.
 Dazu muss zum einen Folgende Datei ausgeführt werden:
-flugtag_liste\V1.36\flugtag_2017.sql, 
-sowie diese hier: einstellungen.sql 
-als auch die einzelnen Inhalte dieser Datei:
-SQL_Updates_Seit_V1_27.txt
+\flugtag_2017.sql.
 
 Im Backend, das umbedigt mit einem htaccess geschützt werden sollte, können dann Piloten, sowie Flugzeuge angelegt werden. Es gibt dann eine Seite die auf einem TV angezeigt werden kann, als auch z.B. auf dem Handy oder einen PC aufgerufen werden kann.
 
@@ -30,12 +27,9 @@ Each pilot has a virtual slider with information about the aircraft and can be t
 
 The installation requires a MYSQL database and a PHP server.
 
-In the file: ./flugtag_liste/V1.36/admin/database.php the database settings must be made. In addition, e.g. via PHP myadmin the SQL database will be installed.
+In the file: /admin/database.php the database settings must be made. In addition, e.g. via PHP myadmin the SQL database will be installed.
 To do this, the following file must be executed:
-flugtag_liste \ V1.36 \ flugtag_2017.sql,
-as well as this here: settings.sql
-as well as the individual contents of this file:
-SQL_Updates_Seit_V1_27.txt
+\flugtag_2017.sql.
 
 In the backend, which should be umbedigt protected with an htaccess, then pilots, and aircraft can be created. There is then a page that can be displayed on a TV as well as e.g. on the phone or a PC can be called.
 
