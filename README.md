@@ -46,3 +46,9 @@ Have fun with a small donation, I would be happy if you are satisfied.
 <a href="https://paypal.me/druckgott/10">
   <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
 </a>
+
+
+INFO:
+
+The fontello icons are used thx for it:
+https://github.com/fontello/fontello
