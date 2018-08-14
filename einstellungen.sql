@@ -2,7 +2,7 @@
 -- version 4.1.14.8
 -- http://www.phpmyadmin.net
 --
--- Host: db669182842.db.1and1.com
+-- Host: XXX.db.1and1.com
 -- Erstellungszeit: 20. Aug 2017 um 15:35
 -- Server Version: 5.5.57-0+deb7u1-log
 -- PHP-Version: 5.4.45-0+deb7u9
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Datenbank: `db669182842`
+-- Datenbank: `XXX`
 --
 
 -- --------------------------------------------------------
