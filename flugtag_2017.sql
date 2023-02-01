@@ -248,6 +248,38 @@ INSERT INTO `einstellungen` (`id_e`, `name_s`, `value_s`) VALUES
 (15, 'global_max_flight_time', '900');
 
 
+CREATE TABLE `history` (
+  `history_id` int(11) NOT NULL,
+  `history_piloten_id` int(100) NOT NULL,
+  `history_name` varchar(100) NOT NULL,
+  `history_vorname` varchar(100) NOT NULL,
+  `history_name_f` text NOT NULL,
+  `history_name_ft` text NOT NULL,
+  `history_name_fa` text NOT NULL,
+  `history_starttime` datetime NOT NULL,
+  `history_stoptime` datetime NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Daten für Tabelle `history`
+--
+
+--
+-- Indizes für die Tabelle `history`
+--
+ALTER TABLE `history`
+  ADD PRIMARY KEY (`history_id`);
+
+--
+-- AUTO_INCREMENT für exportierte Tabellen
+--
+
+--
+-- AUTO_INCREMENT für Tabelle `history`
+--
+ALTER TABLE `history`
+  MODIFY `history_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=97;
+COMMIT;
 
 ALTER TABLE `flugzeug` ADD `flugzeug_kommentar` TEXT NOT NULL AFTER `flugzeugantrieb_id`;
 ALTER TABLE `piloten` ADD `kommentar` TEXT NOT NULL AFTER `unique_id`;
