@@ -264,6 +264,27 @@ CREATE TABLE `history` (
 -- Daten für Tabelle `history`
 --
 
+INSERT INTO `history` (`history_id`, `history_piloten_id`, `history_name`, `history_vorname`, `history_name_f`, `history_name_ft`, `history_name_fa`, `history_starttime`, `history_stoptime`) VALUES
+(72, 0, 'B', 'Stephan', 'Eurofighter', 'Turbinen Jet', 'Turbine', '2017-08-18 20:51:32', '2017-08-18 20:51:36'),
+(74, 0, 'B', 'Klaus', 'ME163', 'Oldtimer', 'Elektro', '2017-08-18 20:51:36', '2017-08-18 20:51:38'),
+(75, 0, 'A', 'Tim', 'Corsair F4U', 'Warbird', 'Verbrenner', '2017-08-18 20:51:38', '2017-08-18 20:51:41'),
+(78, 0, 'D', 'Heinrich', 'Fokker DR 1', 'Oldtimer', 'Verbrenner', '2017-08-18 21:20:24', '2017-08-18 21:21:19'),
+(79, 199, 'Attraktion', 'Tim', 'Corsair F4U', 'Warbird', 'Verbrenner', '2017-08-18 21:21:19', '2017-08-18 21:33:24'),
+(80, 379, 'K ', 'Florian', 'Katana', 'Flugzeug Kunstflug', 'Elektro', '2017-08-18 21:21:19', '2017-08-18 21:33:24'),
+(81, 203, 'A', ' ', 'Styrostangen', 'Event', 'Elektro', '2017-08-18 21:33:24', '2017-08-18 21:33:35'),
+(82, 293, 'Ã–', 'Robert', 'Dountless', 'Funmodell', 'Verbrenner', '2017-08-18 21:33:35', '2017-08-18 21:33:45'),
+(83, 314, 'B', 'Ingmar', 'Carf DG800S-T', 'Turbinen Jet', 'Turbine', '2017-08-18 21:33:45', '2017-08-18 21:33:48'),
+(85, 272, 'B', 'Stephan', 'Eurofighter', 'Turbinen Jet', 'Turbine', '2017-08-18 22:15:48', '2017-08-18 22:16:17'),
+(86, 302, 'D', 'Heinrich', 'Fokker DR 1', 'Oldtimer', 'Verbrenner', '2017-08-18 22:15:48', '2017-08-18 22:16:17'),
+(87, 185, 'D', 'Manfred', 'Piper PA 18', 'Oldtimer', 'Verbrenner', '2017-08-18 22:15:48', '2017-08-18 22:16:17'),
+(88, 203, 'Attraktion', ' ', 'Styrostangen', 'Event', 'Elektro', '2017-08-18 22:16:17', '2017-08-18 22:22:51'),
+(89, 293, 'Ã–', 'Robert', 'Dountless', 'Funmodell', 'Verbrenner', '2017-08-18 22:22:51', '2017-08-18 22:23:45'),
+(90, 379, 'K ', 'Florian', 'Katana', 'Flugzeug Kunstflug', 'Elektro', '2017-08-18 22:23:45', '2017-08-18 22:24:02'),
+(91, 199, 'A', 'Tim', 'Corsair F4U', 'Warbird', 'Verbrenner', '2017-08-18 22:24:02', '2017-08-18 22:24:06'),
+(93, 293, 'Ã–', 'Robert', 'Dountless', 'Funmodell', 'Verbrenner', '2017-08-19 01:34:17', '2017-08-19 01:34:39'),
+(95, 341, 'W', 'Axel', 'Minimoa', 'Segelflugzeug', 'keinen', '2017-08-20 21:50:27', '2017-08-21 21:11:16'),
+(96, 199, 'A', 'Tim', 'Corsair F4U', 'Warbird', 'Verbrenner', '2017-08-21 21:11:16', '2017-08-21 21:11:16');
+
 --
 -- Indizes für die Tabelle `history`
 --
